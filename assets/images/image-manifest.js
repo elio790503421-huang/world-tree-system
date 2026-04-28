@@ -1,0 +1,18 @@
+window.IMAGE_SOURCES = [
+  "./assets/images/User_001.jpg",
+  "./assets/images/User_002.jpg",
+  "./assets/images/User_003.jpg",
+  "./assets/images/User_004.jpg",
+  "./assets/images/User_005.jpg",
+  "./assets/images/User_006.jpg",
+  "./assets/images/User_007.jpg",
+  "./assets/images/User_008.jpg",
+  "./assets/images/User_009.jpg",
+  "./assets/images/User_010.jpg",
+  "./assets/images/User_011.jpg",
+  "./assets/images/User_012.jpg",
+  "./assets/images/User_013.jpg",
+  "./assets/images/User_014.jpg",
+  "./assets/images/User_015.jpg",
+  "./assets/images/User_016.jpg",
+];
